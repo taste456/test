@@ -1,7 +1,7 @@
-162.159.27.10:443#高速
+s1.kkt.camdvr.org:2053#新加波1
 s2.kkt.camdvr.org:2083#新加波2
 s3.kkt.camdvr.org:2087#新加波3
-cf.877774.xyz:443#日本1
+j1.kkt.camdvr.org:2096#日本1
 j2.kkt.gleeze.com:8443#日本2
 j3.kkt.gleeze.com:2053#日本3
 47.239.8.172:443#香港1(可能限速)
@@ -25,6 +25,7 @@ youxuan.cf.090227.xyz#CM优选
 mfa.gov.ua#乌黑兰外交
 store.ubi.com#游戏厂商
 saas.sin.fan#MIYU维护的优选
+
 
 
 
