@@ -1,4 +1,4 @@
-s1.kkt.camdvr.org:2053#新加波1
+162.159.27.10:443#高速
 s2.kkt.camdvr.org:2083#新加波2
 s3.kkt.camdvr.org:2087#新加波3
 cf.877774.xyz:443#日本1
@@ -25,4 +25,5 @@ youxuan.cf.090227.xyz#CM优选
 mfa.gov.ua#乌黑兰外交
 store.ubi.com#游戏厂商
 saas.sin.fan#MIYU维护的优选
+
 
