@@ -31,3 +31,5 @@ store.ubi.com#游戏厂商
 saas.sin.fan#MIYU维护的优选
 keng.cf.tencentapp.cn#神秘
 freeyx.cloudflare88.eu.org#神秘2
+deepseek.com#神秘3
+
