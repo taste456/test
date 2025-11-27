@@ -25,9 +25,9 @@ d1.kkt.gleeze.com:2087#德国1
 8.35.211.112:443#马来西亚
 84.8.147.191:444#GB英国
 138.124.109.251:443#SE瑞典
-youxuan.cf.090227.xyz#CM优选
+keng.cf.090227.xyz#CM优选
 mfa.gov.ua#乌黑兰外交
 store.ubi.com#游戏厂商
 saas.sin.fan#MIYU维护的优选
-
-
+keng.cf.tencentapp.cn#神秘
+freeyx.cloudflare88.eu.org#神秘2
