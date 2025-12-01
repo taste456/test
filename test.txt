@@ -9,7 +9,7 @@
 47.239.69.137:8440#香港9
 s1.kkt.camdvr.org:2053#新加波1
 s2.kkt.camdvr.org:2083#新加波2
-s3.kkt.camdvr.org:2087#新加波3
+komga.aqua-aria.company:2087#新加波3
 j1.kkt.camdvr.org:2096#日本1
 j2.kkt.gleeze.com:8443#日本2
 j3.kkt.gleeze.com:2053#日本3
