@@ -2,3 +2,4 @@ keng.cf.090227.xyz#CM优选
 mfa.gov.ua#乌黑兰外交
 store.ubi.com#游戏厂商
 keng.cf.tencentapp.cn#神秘
+cf-cname.xingpingcn.top:2096#日本
