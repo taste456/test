@@ -4,4 +4,4 @@ mfa.gov.ua#乌黑兰外交
 store.ubi.com#游戏厂商
 keng.cf.tencentapp.cn#神秘
 cf-cname.xingpingcn.topg#测试1
-cdn.2020111.xyz#测试2
+sub.danfeng.eu.org#测试2
