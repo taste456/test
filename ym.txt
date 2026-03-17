@@ -3,5 +3,5 @@ keng.cf.090227.xyz#CM优选
 mfa.gov.ua#乌黑兰外交
 store.ubi.com#游戏厂商
 keng.cf.tencentapp.cn#神秘
-hk.cf.3666888.xyz#测试1
-sub.danfeng.eu.org#测试2
+keng.cf.3666888.xyz#测试(网页)
+keng.cfdl.3666888.xyz#测试（下载）
