@@ -2,6 +2,6 @@ www.shopify.com#电商Shopify（电信稳定）
 keng.cf.090227.xyz#CM优选（电信稳定）
 mfa.gov.ua#乌黑兰外交（电信稳定）
 fn.130519.xyz:443#电信（稳定）
-cdns.doon.eu.org:443#电信（稳定）
+saas.sin.fan:2096#电信
 securecircle.com:8443#移动
 www.crazygames.fr:2083#移动
